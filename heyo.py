@@ -1,5 +1,7 @@
 print("Excelsior")
 print("up up and away")
-print("lex luthor")
+print("lux lethor")
 print("I'm Batman")
 print("chitty chitty bang bang")
+print("Shwoop")
+print("argle flargel blargle")
